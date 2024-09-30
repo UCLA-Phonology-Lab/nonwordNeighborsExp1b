@@ -1,0 +1,121 @@
+itemNo	transcription	item	Filename	w_nw	nDensCond	editCond	entropyCond	editpos-freq-cross	neighbors	log_f_subtlex	logsum	avelog	entropy	earliestedit	latestedit	aveedit	avg_edit_similarity	GNM	uniqueness	cohortsize
+1	AE1 V AH0 N	aevan	aevan.wav	nonword	large	mixed	low	NA	9	0	7.302897539	0.81143306	0.447265599	1	5	0.660691548	3	0.443130139	4	2
+102	AH1 K S M EH0 N D	uxmend	uxmend.wav	nonword	small	both late	low	NA	2	0	0.903241964	0.451620982	0.095850122	4	4	4	2.5	0.086443223	3	206
+3	B AE1 N OW0	bannow	bannow.wav	nonword	large	late	low	NA	10	0	4.601476409	0.460147641	1.221957407	1	4	1.221828966	2.8	0.3581239	3	40
+4	B AE1 T AH0 S	batiss	batiss.wav	nonword	large	late	low	NA	9	0	4.161030692	0.462336744	1.27472266	1	5	1.159024346	2.888888889	0.519870137	4	16
+9	B AO1 S ER0	bosser	bosser.wav	nonword	large	late	low	NA	9	0	3.617908891	0.401989877	0.35693382	1	4	1.071349583	2.666666667	0.338125943	3	4
+7	B EH1 K OW0	bekoe	bekoe.wav	nonword	large	late	high	NA	9	0	3.226239916	0.358471102	2.37500232	1	4	0.869366666	3	1.644988165	3	8
+5	B EY1 Z IY0	bayzee	bayzee.wav	nonword	large	mixed	low	NA	10	0	8.741647298	0.87416473	1.036521189	1	4	0.716415238	2.7	0.717072809	3	1
+8	B IH1 R OW0	birow	birow.wav	nonword	large	late	high	NA	11	0	9.722432936	0.88385754	2.391370556	1	4	0.891384059	2.818181818	0.534538049	3	6
+6	B IY1 V IY0	beevee	beevee.wav	nonword	large	mixed	low	NA	9	0	3.975689895	0.441743322	0.557457921	1	4	0.641477633	2.333333333	0.89242898	3	2
+10	B OW1 T AH0	bota	bota.wav	nonword	large	late	low	NA	11	0	5.372862551	0.48844205	1.041200198	1	5	0.825045482	2.909090909	1.009234318	4	1
+11	B R AH1 M ER0 Z	brummers	brummers.wav	nonword	small	mixed	low	late-high	2	0	1.818504334	0.909252167	0.065833819	1	4	3.774451073	2.5	0.116588597	3	27
+12	B R AH1 SH AH0 L Z	brushels	brushels.wav	nonword	small	both late	high	NA	2	0	0.835335383	0.417667691	0.987335475	4	6	4.914643509	2.5	0.207094717	5	2
+15	CH AA1 N IY0	chawnee	chawnee.wav	nonword	large	early	low	NA	9	0	4.562612232	0.506956915	1.012771034	1	4	0.366696504	2.333333333	0.408745925	3	1
+16	CH EH1 P AH0 N	cheppan	cheppan.wav	nonword	small	both early	low	NA	2	0	1.795334201	0.8976671	0.057306055	1	2	1.065320037	2.5	0.249713661	2	68
+17	CH IH1 CH AH0 N	chichin	chichin.wav	nonword	small	mixed	high	NA	2	0	3.570603212	1.785301606	0.999414397	1	3	2.006818838	2	0.146508576	2	65
+24	D AA1 S IY0	dawsee	dawsee.wav	nonword	large	late	high	NA	11	0	5.573543389	0.506685763	2.950659928	1	4	0.894766293	3	0.308006568	3	3
+26	S T IY1 F AH0 N	steefan	steefan.wav	nonword	small	both late	low	NA	2	0	1.297979244	0.648989622	0.098193068	3	4	3.938996524	unknown	0.308049635	3	34
+28	D AH1 Z ER0	duhzer	duhzer.wav	nonword	large	late	low	NA	9	0	8.853948371	0.983772041	0.799918544	1	5	1.005133215	3.111111111	0.533456355	4	10
+23	D AO1 R S AH0 T	darsit	darsit.wav	nonword	small	mixed	high	NA	2	0	0.45884928	0.22942464	0.955084923	1	6	3.012550077	2	0.105421824	5	1
+25	D AY1 M ER0	dimer	dimer.wav	nonword	large	late	high	NA	11	0	6.093234773	0.553930434	2.715889977	1	4	0.94739549	2.727272727	0.646551779	3	4
+27	D OW1 S T AH0 NG	dostung	dostung.wav	nonword	large	early	high	NA	9	0	2.143245835	0.238138426	2.804749145	1	4	0.263605402	2.444444444	0.380802698	3	6
+29	D R IY1 Z AH0 NG	dreasing	dreasing.wav	nonword	small	mixed	high	NA	2	0	2.444271726	1.222135863	0.981442156	1	4	2.580870312	3	0.255212455	3	9
+97	DH AE1 S T ER0 Z	dhasters	dhasters.wav	nonword	small	both early	low	NA	2	0	0.966404577	0.483202289	0.083811148	1	1	1	3	0.075792106	2	2
+30	EH1 N W AO0 R S	enwars	enwars.wav	nonword	small	both late	high	NA	2	0	0.865914927	0.432957464	0.999901322	3	3	3	2.5	0.025746223	2	293
+2	EY1 V AH0 N	ayvon	ayvon.wav	nonword	large	early	low	NA	12	0	8.844841153	0.737070096	1.017368356	1	4	0.107612503	3.166666667	1.582226842	3	2
+34	F AH1 B AH0 L	fubble	fubble.wav	nonword	large	early	low	NA	10	0	4.761623066	0.476162307	1.138974244	1	3	0.341097037	2.9	0.845888615	2	167
+32	F AY1 D AH0 S T	fidest	fidest.wav	nonword	small	mixed	low	late-high	2	0	1.291510928	0.645755464	0.061834361	1	3	2.923782259	2	0.077013495	3	4
+31	F EH1 S ER0	fesser	fesser.wav	nonword	large	late	high	NA	11	0	3.649624583	0.331784053	2.681515794	1	4	0.933480883	2.909090909	0.78823798	3	14
+33	F L IH1 S N AH0 NG	flisnung	flisnung.wav	nonword	small	both early	low	NA	2	0	1.995424577	0.997712288	0.071885217	1	1	1	3.5	0.05530491	3	30
+36	G AA1 P ER0 Z	gawpers	gawpers.wav	nonword	large	early	high	NA	9	0	1.795370054	0.199485562	2.293757432	1	3	0.254743685	2.444444444	0.488334002	2	120
+35	G AE1 G AH0 N Z	gaggins	gaggins.wav	nonword	small	mixed	high	NA	2	0	1.296682737	0.648341369	0.997204844	1	3	2.032352574	3	0.066903846	4	1
+40	G AO1 S IY0	gossy	gossy.wav	nonword	large	mixed	high	NA	10	0	2.164880029	0.216488003	2.993168544	1	4	0.650422942	2.8	0.329771327	3	2
+44	G AY1 ER0 Z	guyers	guyers.wav	nonword	large	mixed	low	NA	10	0	7.854557724	0.785455772	0.43693518	1	3	0.610904188	3	0.403115255	2	24
+37	G EH1 K ER0 D	geckered	geckered.wav	nonword	small	both early	low	NA	2	0	2.197539128	1.098769564	0.077390487	1	1	1	2.5	0.21109239	3	2
+38	G IH1 NG G AH0 L	gingul	gingul.wav	nonword	large	early	low	NA	9	0	4.355402943	0.48393366	0.886977503	1	3	0.039763879	2.888888889	0.251797614	3	2
+39	G L AH1 M B ER0	glumber	glumber.wav	nonword	small	both early	high	NA	2	0	1.114360743	0.557180371	0.997923519	1	1	1	3.5	0.071160192	4	1
+42	G R AH1 B AH0 L Z	grubbles	grubbles.wav	nonword	small	mixed	low	early-high	2	0	1.150621373	0.575310687	0.082200362	1	4	1.128325504	3	0.148994221	4	3
+43	G R AH1 N IY0	grunny	grunny.wav	nonword	large	mixed	high	NA	10	0	3.419124214	0.341912421	2.317499973	1	5	0.712773792	3.5	0.414957851	4	13
+41	G R IH1 T AH0 SH	gritush	gritush.wav	nonword	small	mixed	low	early-high	2	0	1.434671079	0.71733554	0.017048821	1	6	1.059363221	3.5	0.11366923	5	1
+45	HH AH1 Z IY0	huzzy	huzzy.wav	nonword	large	late	low	NA	9	0	7.858461588	0.873162399	0.583273846	1	4	1.045303003	2.444444444	0.526112335	3	4
+14	K AE1 T OW0	caetow	caetow.wav	nonword	large	late	low	NA	9	0	4.127774442	0.458641605	1.05537532	1	4	0.832886668	3	0.513860085	3	48
+13	K AE1 P SH ER0 Z	capshures	capshures.wav	nonword	small	both late	high	NA	2	0	0.402725528	0.201362764	0.999170944	4	4	4	2.375	0.234247933	4	4
+21	K AH1 CH IY0	cuchee	cuchee.wav	nonword	large	mixed	high	NA	9	0	2.499843085	0.277760343	2.508571946	1	3	0.75815606	1.777777778	0.799856286	2	995
+46	K EH1 L AH0 N	kellen	kellen.wav	nonword	large	early	high	NA	11	0	7.797618584	0.708874417	2.364177507	1	4	0.449787022	2.818181818	0.644496743	3	9
+47	K EH1 R AH0 K	kerek	kerek.wav	nonword	large	late	high	NA	11	0	8.071825527	0.733802321	2.364535522	1	5	0.946341316	2.454545455	0.620615425	5	14
+48	K EH1 S T ER0	kester	kester.wav	nonword	large	early	high	NA	10	0	5.125549073	0.512554907	2.89218028	1	2	0.297727043	2.5	0.752867737	3	2
+22	K ER1 D AH0 JH	curdage	curdage.wav	nonword	small	both late	low	NA	2	0	1.417475015	0.708737507	0.025457405	3	5	3.035705554	2.5	0.154077197	4	2
+18	K L AE1 K AH0 Z	clackuz	clackuz.wav	nonword	small	both late	low	NA	2	0	1.292858348	0.646429174	0.080463137	4	4	4	3	0.086920693	4	2
+19	K OW1 V ER0	cowver	cowver.wav	nonword	large	mixed	low	NA	11	0	8.369211204	0.760837382	0.460947018	1	5	0.649668588	3.181818182	0.639747398	4	2
+20	K R IH1 K L IY0	crickly	crickly.wav	nonword	small	both early	low	NA	2	0	1.955491961	0.977745981	0.080723419	1	2	1.899820784	2	0.086229893	4	3
+53	L AA1 L AH0	lolla	lolla.wav	nonword	large	mixed	high	NA	10	0	2.875419844	0.287541984	2.305406635	1	5	0.764739634	3.2	0.279073345	4	2
+51	L AE1 N T IY0 N Z	lantines	lantines.wav	nonword	small	mixed	high	NA	2	0	0.41901348	0.20950674	0.999812336	1	5	2.974407848	3	0.043017036	4	2
+50	L AE1 M AH0 L Z	lamels	lamels.wav	nonword	small	both early	high	NA	2	0	0.704236337	0.352118169	0.988968617	1	1	1	2.5	0.059917264	4	5
+56	L AH1 T ER0 D	luttered	luttered.wav	nonword	large	early	high	NA	9	0	1.130116656	0.125568517	2.728594653	1	2	0.299601558	2.888888889	1.676829073	3	5
+55	L ER1 T ER0	lurter	lurter.wav	nonword	large	mixed	low	NA	9	0	7.389290494	0.821032277	1.080397169	2	3	0.682113467	2.888888889	1.017564994	2	15
+49	L EY1 K AH0 N	lakein	lakein.wav	nonword	large	early	low	NA	9	0	5.025978047	0.558442005	0.737584635	1	3	0.336917259	2.666666667	0.605872285	3	8
+52	L IY1 F AH0	leafa	leafa.wav	nonword	large	late	high	NA	10	0	2.962438292	0.296243829	2.443849195	3	4	1.11459464	3	0.729936539	3	6
+54	L OW1 S T AH0 NG	lowstung	lowstung.wav	nonword	large	early	high	NA	9	0	2.810459883	0.31227332	2.90831116	1	2	0.283198393	2.555555556	0.257916321	2	81
+57	M AA1 S OW0	masso	masso.wav	nonword	large	late	high	NA	9	0	4.141501587	0.460166843	2.470349518	3	4	1.121701176	2.444444444	0.237121725	3	5
+62	M AH1 M OW0 T	mumote	mumote.wav	nonword	small	both early	low	NA	2	0	1.192545153	0.596272576	0.028227976	1	1	1	2.5	0.103874998	4	1
+63	M AH1 S W IY0	muswee	muswee.wav	nonword	small	both late	high	NA	2	0	0.357877699	0.17893885	0.998890377	4	4	4	3	0.083001497	3	149
+60	M AO1 K T ER0	moctor	moctor.wav	nonword	small	mixed	low	early-high	2	0	2.94034343	1.470171715	0.071372979	1	3	1.35179285	3	0.119546172	3	1
+59	M EH1 D R IY0	medry	medry.wav	nonword	small	both late	low	NA	2	0	2.234822144	1.117411072	0.052923507	3	4	3.094946081	2.5	0.224917989	3	35
+58	M EH1 K AH0 L	meckle	meckle.wav	nonword	large	mixed	low	NA	10	0	6.353587677	0.635358768	0.917850636	1	5	0.619706569	2.7	1.651658482	4	5
+61	M UW1 Z IY0	moozy	moozy.wav	nonword	large	late	low	NA	11	0	3.861328027	0.351029821	0.391507173	1	4	0.861777025	2.272727273	1.510945991	3	1
+65	N AH1 K IY0	nuckie	nuckie.wav	nonword	large	early	low	NA	11	0	5.975924824	0.543265893	0.88686073	1	3	0.153138827	2.363636364	0.875160936	3	5
+66	N AH1 L IY0 V	nuleave	nuleave.wav	nonword	small	both early	low	NA	2	0	3.614236818	1.807118409	0.072941923	1	1	1	2	0.103035562	3	5
+64	N AY1 B R EY0 T S	nibrates	nibrates.wav	nonword	small	mixed	high	NA	2	0	0.247310278	0.123655139	0.989375583	1	3	2.105660214	2.5	0.029972384	2	64
+68	OW1 L AH0 M	olem	olem.wav	nonword	large	early	high	NA	10	0	1.969579582	0.196957958	2.442665836	1	4	0.436735966	3.6	0.308672854	3	1
+69	OW1 N AH0 L	onul	onul.wav	nonword	large	mixed	high	NA	9	0	2.301431354	0.255714595	2.596569059	1	4	0.681373261	2.888888889	0.317631566	3	2
+67	OW1 R EY0	ohrey	ohrey.wav	nonword	large	early	low	NA	11	0	13.36856527	1.215324116	0.898648469	1	2	0.180845371	3.545454545	0.700380641	2	1
+70	P ER1 CH AH0 N T	perchant	perchant.wav	nonword	small	mixed	high	NA	2	0	1.261448445	0.630724223	0.987390996	1	5	3.139956312	2	0.229378711	4	6
+71	P ER1 M Y UW0 M	permume	permume.wav	nonword	small	both late	low	NA	2	0	1.143689151	0.571844576	0.083365081	3	6	3.129103321	2.5	0.043209145	5	3
+72	P R IY1 T EY0 L	pretail	pretail.wav	nonword	small	mixed	high	NA	2	0	1.011189688	0.505594844	0.998363673	1	4	2.457773056	3	0.092077421	4	17
+73	P R OW1 T AA0 G	protag	protag.wav	nonword	small	both late	high	NA	2	0	0.298350838	0.149175419	0.998282846	4	6	5.041297813	2.5	0.070342345	5	2
+74	R AE1 N K AH0 M	rancome	rancome.wav	nonword	small	both late	high	NA	2	0	2.082578583	1.041289291	0.999584464	4	4	4	2.5	0.062632576	3	26
+77	R AH1 B AH0 Z	rubbiz	rubbiz.wav	nonword	large	late	high	NA	9	0	3.208759793	0.356528866	2.390119765	1	5	1.13345549	2.666666667	0.761255936	4	8
+75	R EH1 T ER0 Z	reters	reters.wav	nonword	large	early	low	NA	10	0	3.085197967	0.308519797	0.891804944	1	3	0.102575534	2.7	0.908901151	4	1
+76	R OW1 S ER0	rowser	rowser.wav	nonword	large	late	high	NA	10	0	4.079771119	0.407977112	2.401448733	1	4	1.000720697	2.7	0.664171108	3	5
+78	S AA1 R D AH0 N T	sardent	sardent.wav	nonword	small	mixed	low	late-high	2	0	2.007169756	1.003584878	0.076028129	1	4	3.698983421	2.5	0.070087079	4	4
+90	S AH1 S IY0	sussy	sussy.wav	nonword	large	mixed	high	NA	11	0	5.720531902	0.520048355	2.58294702	1	5	0.730321086	2.727272727	0.757110663	4	3
+80	S EH1 B L ER0	sebbler	sebbler.wav	nonword	small	both late	low	NA	2	0	1.049202512	0.524601256	0.070440141	3	3	3	3	0.16048184	2	308
+81	S EH1 D AH0 N	sedden	sedden.wav	nonword	large	mixed	low	NA	9	0	5.243265183	0.58258502	1.246931713	1	3	0.661035823	2.444444444	1.658880968	5	1
+87	S N IH1 TH ER0	snither	snither.wav	nonword	small	both late	high	NA	2	0	0.234441351	0.117220676	0.996995427	4	4	4	2.5	0.139676561	3	23
+79	S P IH1 B AH0 T	sbibot	sbibot.wav	nonword	small	both late	low	NA	2	0	1.812589185	0.906294593	0.051747702	4	4	4	2.5	0.104893825	3	48
+88	S T AO1 R N IY0	starnee	starnee.wav	nonword	small	both late	low	NA	2	0	2.735088464	1.367544232	0.056751387	5	5	5	3	0.083927299	4	30
+89	S T IH1 M ER0	stimmer	stimmer.wav	nonword	large	mixed	high	NA	11	0	2.888568082	0.262597098	2.751870333	1	4	0.710525387	2.454545455	0.505486916	4	10
+92	S W IH1 V M AH0 NG	swivmung	swivmung.wav	nonword	small	both late	high	NA	2	0	1.386263473	0.693131737	0.066834535	4	5	4.046497647	3	0.03638736	4	5
+91	S W IY1 R IY0	sweeree	sweeree.wav	nonword	small	mixed	low	late-high	2	0	1.932694407	0.966347204	0.084300672	1	4	3.695917288	2.5	0.149246282	3	32
+82	SH AA1 R D L IY0	shardley	shardley.wav	nonword	small	mixed	low	early-high	2	0	1.913902821	0.95695141	0.087363194	1	4	1.307068337	2	0.059430988	4	2
+83	SH AE1 S K AH0 L Z	shasckles	shasckles.wav	nonword	small	mixed	high	NA	2	0	0.552814173	0.276407087	0.999180235	1	3	2.024941988	3	0.054049353	2	57
+86	SH AH1 S K R AY0 B	shuscribe	shuscribe.wav	nonword	small	both early	low	NA	2	0	1.296182373	0.648091186	0.051842082	1	1	1	3	0.04136719	2	55
+84	SH AO1 SH AH0 S	shawshus	shawshus.wav	nonword	small	both early	high	NA	2	0	1.251273114	0.625636557	0.998916038	1	1	1	2.5	0.051000141	2	42
+85	SH IY1 L ER0	sheeler	sheeler.wav	nonword	large	mixed	high	NA	11	0	5.263020528	0.478456412	2.398058192	1	4	0.72831543	2.545454545	1.297932068	3	6
+95	T AA1 T OW0	tawto	tawto.wav	nonword	large	mixed	high	NA	11	0	3.959478791	0.359952617	2.556749458	1	4	0.647896102	2.727272727	1.468365313	3	6
+93	T AO1 R F AH0 N	tarfin	tarfin.wav	nonword	small	mixed	low	early-high	2	0	0.854609638	0.427304819	0.082953374	1	4	1.088833068	3	0.082627227	3	50
+96	T EH1 R AH0 T	terit	terit.wav	nonword	large	mixed	high	NA	11	0	5.554501147	0.50495465	3.054164165	1	5	0.677551182	2.545454545	0.579744089	5	3
+94	T EY1 S P AH0 NG	teispung	teispung.wav	nonword	small	both late	high	NA	2	0	0.939039767	0.469519883	0.997703369	3	4	3.482746691	3	0.115460726	3	11
+99	T IH1 B AH0 T S	tibbits	tibbits.wav	nonword	small	both late	low	NA	2	0	1.783614191	0.891807096	0.070421844	3	3	3	3	0.11193356	3	3
+100	T IH1 M N IY0	timney	timney.wav	nonword	small	mixed	low	early-high	2	0	0.731363099	0.36568155	0.07731692	1	3	1.046579707	2.5	0.108756642	3	11
+101	T R AH1 SH AH0 N	trussian	trussian.wav	nonword	small	both early	low	NA	2	0	1.576723638	0.788361819	0.067839604	1	1	1	3	0.16996628	3	62
+98	TH IH1 B ER0	thibber	thibber.wav	nonword	small	both late	high	NA	2	0	1.000434077	0.500217039	0.998887812	3	3	3	2.5	0.325227211	2	36
+103	V AA1 P ER0	vaper	vaper.wav	nonword	large	early	high	NA	10	0	4.963318077	0.496331808	2.481720613	1	2	0.384011836	2.5	0.438681187	2	33
+104	V EH1 M B ER0	vember	vember.wav	nonword	small	both early	low	NA	2	0	1.560284524	0.780142262	0.064328109	1	1	1	3.5	0.11687415	2	116
+105	V EH1 P ER- D Z	veperds	veperds.wav	nonword	small	both early	high	NA	2	0	0.493458051	0.246729026	0.999722648	1	1	1	2.5	0.045574305	2	116
+106	W AA1 K IY0 Z	walkies	walkies.wav	nonword	small	both early	high	NA	2	0	0.505692507	0.252846254	0.999884415	1	1	1	2.5	0.047813486	3	2
+107	W AA1 M IY0	wamee	wamee.wav	nonword	large	early	low	NA	9	0	4.909284696	0.545476077	1.245880165	1	3	0.350768538	2.666666667	0.186802696	3	3
+112	W AW1 ER0 D	woward	woward.wav	nonword	large	mixed	low	NA	9	0	6.846787968	0.760754219	0.99445885	1	3	0.641520678	3.222222222	0.234394082	2	5
+110	W EH1 F ER0	wefer	wefer.wav	nonword	large	late	low	NA	9	0	3.702564934	0.411396104	0.648561208	1	3	0.867844164	2.555555556	0.42192854	2	120
+108	W EY1 SH AH0 NG	washung	washung.wav	nonword	large	mixed	low	NA	10	0	7.607043217	0.760704322	0.989422265	2	3	0.688009442	2.3	0.493046256	2	76
+111	W IH1 N T ER0 N Z	winternz	winternz.wav	nonword	small	mixed	high	NA	2	0	1.041455851	0.520727925	0.970950595	1	6	3.794469696	4	0.05386548	5	4
+109	W IY1 K OW0	weeco	weeco.wav	nonword	large	late	low	NA	9	0	6.91983053	0.768870059	1.148794097	1	4	1.112225087	3.111111111	0.252185299	3	20
+115	Y AH1 T AH0 L	yutul	yutul.wav	nonword	small	both early	high	NA	2	0	1.714733684	0.857366842	0.990757722	1	1	1	3	0.393634535	2	20
+113	Y AO1 T ER0 Z	yaters	yaters.wav	nonword	small	both early	high	NA	2	0	2.113954043	1.056977021	0.998768871	1	1	1	3	0.107854897	2	13
+114	Y IH1 B AH0 N Z	yibbons	yibbons.wav	nonword	small	both early	high	NA	2	0	1.162659977	0.581329988	0.998996154	1	1	1	2.5	0.141827011	2	12
+120	Z AA1 L IY0	zolly	zolly.wav	nonword	large	early	high	NA	11	0	7.240241099	0.658203736	2.846660827	1	1	0.333333333	2.272727273	0.27166975	2	5
+116	Z AE1 T ER0	zatter	zatter.wav	nonword	large	early	low	NA	9	0	5.548490475	0.616498942	0.312563447	1	1	0	2.111111111	0.382338121	2	14
+117	Z AO1 K AH0 S	zaucous	zaucous.wav	nonword	small	both early	high	NA	2	0	0.227861006	0.113930503	0.999198354	1	1	1	2.5	0.050134208	2	1
+118	Z EH1 L AH0 N Z	zelens	zelens.wav	nonword	small	both early	high	NA	2	0	0.734199561	0.36709978	0.99738854	1	1	1	2.5	0.083408033	4	5
+119	ZH EY1 L AH0 NG	zhelung	zhelung.wav	nonword	large	early	high	NA	11	0	4.843755623	0.44034142	2.78868912	1	1	0.25	2.272727273	0.59421329	1	7

@@ -1,0 +1,121 @@
+itemNo	transcription	item	Filename	w_nw	nDensCond	editCond	entropyCond	editpos-freq-cross	neighbors	log_f_subtlex	logsum	avelog	entropy	earliestedit	latestedit	aveedit	avg_edit_similarity	GNM	uniqueness	cohortsize
+121	AA1 L AH0 V	olive	olive.wav	word	large	NA	NA	NA	9	2.574031268	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+122	AE1 B S AH0 N T	absent	absent.wav	word	small	NA	NA	NA	2	2.117271296	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+123	AE1 M B UH2 SH	ambush	ambush.wav	word	small	NA	NA	NA	2	2.442479769	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+124	AE1 V R AH0 JH	average	average.wav	word	small	NA	NA	NA	2	2.92890769	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+125	AH1 V AH0 N	oven	oven.wav	word	large	NA	NA	NA	11	2.656098202	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+126	AY1 S IH0 NG	icing	icing.wav	word	large	NA	NA	NA	10	1.851258349	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+127	B AA1 K S ER0	boxer	boxer.wav	word	large	NA	NA	NA	11	2.292256071	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+128	B AE1 NG K R OW2 L	bankroll	bankroll.wav	word	small	NA	NA	NA	2	1.748188027	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+129	B AE1 S K AH0 T	basket	basket.wav	word	large	NA	NA	NA	9	2.827369273	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+130	B AE1 T L IH0 NG	battling	battling.wav	word	large	NA	NA	NA	9	2.103803721	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+131	B AH1 JH IH0 T	budget	budget.wav	word	large	NA	NA	NA	9	2.710117365	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+132	B AH1 K AH0 T	bucket	bucket.wav	word	large	NA	NA	NA	11	2.7084209	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+133	B AH1 L K HH EH2 D	bulkhead	bulkhead.wav	word	small	NA	NA	NA	2	1.681241237	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+134	B EH1 L JH AH0 N	belgian	belgian.wav	word	large	NA	NA	NA	11	1.681241237	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+135	B EY1 S M AH0 N T	basement	basement.wav	word	small	NA	NA	NA	2	3.031004281	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+136	B L AA2 K EY1 D	blockade	blockade.wav	word	small	NA	NA	NA	2	1.892094603	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+137	B L OW1 AW2 T	blowout	blowout.wav	word	small	NA	NA	NA	2	1.880813592	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+138	B R AE1 K IH0 T	bracket	bracket.wav	word	large	NA	NA	NA	9	1.505149978	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+139	B UH1 K S T AO2 R	bookstore	bookstore.wav	word	small	NA	NA	NA	2	2.301029996	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+140	B UH1 L AH0 T	bullet	bullet.wav	word	large	NA	NA	NA	11	3.290034611	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+141	B UW1 S T ER0	booster	booster.wav	word	large	NA	NA	NA	11	2.130333768	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+142	CH AH1 K AH0 L	chuckle	chuckle.wav	word	large	NA	NA	NA	11	1.908485019	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+143	CH EH1 K AW2 T	checkout	checkout.wav	word	small	NA	NA	NA	2	1.806179974	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+144	HH OW1 L S T ER0	holster	holster.wav	word	large	NA	NA	NA	9	1.9445	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+145	D AH1 Z AH0 N	dozen	dozen.wav	word	large	NA	NA	NA	11	3.090258053	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+146	D AW1 N HH IH1 L	downhill	downhill.wav	word	small	NA	NA	NA	2	2.100370545	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+147	D EH1 D L AY2 N	deadline	deadline.wav	word	small	NA	NA	NA	2	2.475671188	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+148	D EH1 Z ER0 T	desert	desert.wav	word	large	NA	NA	NA	10	3.154423973	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+149	D EY1 T AY2 M	daytime	daytime.wav	word	small	NA	NA	NA	2	2.285557309	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+150	D IH1 R AH0 S T	dearest	dearest.wav	word	small	NA	NA	NA	2	2.558708571	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+151	D IH1 S T AH0 N T	distant	distant.wav	word	small	NA	NA	NA	2	2.64246452	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+152	EH1 L B OW2	elbow	elbow.wav	word	large	NA	NA	NA	11	2.495544338	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+153	EH1 M R AH0 L D	emerald	emerald.wav	word	small	NA	NA	NA	2	2.117271296	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+154	EH1 N V IY0	envy	envy.wav	word	large	NA	NA	NA	10	2.687528961	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+155	EH1 N Z AY2 M	enzyme	enzyme.wav	word	small	NA	NA	NA	2	1.73239376	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+156	EH1 R L AY2 N	airline	airline.wav	word	large	NA	NA	NA	10	2.519827994	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+157	ER1 TH K W EY2 K	earthquake	earthquake.wav	word	small	NA	NA	NA	2	2.511883361	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+158	EY1 N CH AH0 N T	ancient	ancient.wav	word	small	NA	NA	NA	2	3.043362278	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+159	F AH1 NG K IY0	funky	funky.wav	word	large	NA	NA	NA	11	2.413299764	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+160	F AO1 R IH0 S T	forest	forest.wav	word	large	NA	NA	NA	9	2.983626287	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+161	F IH1 R L AH0 S	fearless	fearless.wav	word	small	NA	NA	NA	2	2.181843588	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+162	F R AA1 L IH0 K	frolic	frolic.wav	word	large	NA	NA	NA	10	1.62324929	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+163	F R AE1 JH AH0 L	fragile	fragile.wav	word	small	NA	NA	NA	2	2.418301291	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+164	F R EH1 N Z IY0	frenzy	frenzy.wav	word	large	NA	NA	NA	9	2.012837225	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+165	F R EH1 SH M IH0 N	freshmen	freshmen.wav	word	small	NA	NA	NA	2	1.963787827	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+166	F R EY1 G R AH0 N T	fragrant	fragrant.wav	word	small	NA	NA	NA	2	1.556302501	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+167	F R IH1 JH AH0 D	frigid	frigid.wav	word	small	NA	NA	NA	2	1.851258349	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+168	F R IY1 B IY0	freebie	freebie.wav	word	large	NA	NA	NA	9	1.612783857	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+169	F R IY1 D AH0 M	freedom	freedom.wav	word	large	NA	NA	NA	10	3.227372442	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+170	F UH1 T IH0 JH	footage	footage.wav	word	small	NA	NA	NA	2	2.625312451	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+171	G AA1 R L AH0 N D	garland	garland.wav	word	large	NA	NA	NA	11	2.045322979	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+172	G AE1 L AH0 P	gallop	gallop.wav	word	large	NA	NA	NA	9	1.681241237	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+173	G AO1 R JH AH0 S	gorgeous	gorgeous.wav	word	small	NA	NA	NA	2	3.088844563	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+174	G L AE1 M ER0	glamour	glamour.wav	word	large	NA	NA	NA	9	2.201397124	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+175	G L IH1 T ER0	glitter	glitter.wav	word	large	NA	NA	NA	10	2.017033339	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+176	HH AA1 R N AH0 S	harness	harness.wav	word	large	NA	NA	NA	9	2.123851641	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+177	HH AE1 B AH0 T	habit	habit.wav	word	large	NA	NA	NA	9	2.868056362	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+178	HH AE1 N D B UH2 K	handbook	handbook.wav	word	small	NA	NA	NA	2	1.716003344	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+179	HH AW1 S W ER2 K	housework	housework.wav	word	small	NA	NA	NA	2	1.806179974	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+180	HH OW1 M L AE2 N D	homeland	homeland.wav	word	small	NA	NA	NA	2	2.387389826	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+181	JH AH1 JH M AH0 N T	judgment	judgment.wav	word	small	NA	NA	NA	2	2.923761961	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+182	K AA1 N JH ER0	conjure	conjure.wav	word	large	NA	NA	NA	10	1.806179974	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+183	K AA1 N S EH0 P T	concept	concept.wav	word	small	NA	NA	NA	2	2.742725131	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+184	K AA1 Z M IH0 K	cosmic	cosmic.wav	word	small	NA	NA	NA	2	2.264817823	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+185	K L OW1 ZH ER0	closure	closure.wav	word	large	NA	NA	NA	9	2.198657087	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+186	K R AH1 S T IY0	crusty	crusty.wav	word	large	NA	NA	NA	11	1.73239376	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+187	K UH1 K B UH2 K	cookbook	cookbook.wav	word	small	NA	NA	NA	2	1.568201724	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+188	K W AO1 R AH0 L	quarrel	quarrel.wav	word	large	NA	NA	NA	9	2.456366033	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+189	K Y UW1 P IH0 D	cupid	cupid.wav	word	small	NA	NA	NA	2	2.10720997	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+190	L AE1 N D L AO2 R D	landlord	landlord.wav	word	small	NA	NA	NA	2	2.434568904	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+191	L AE1 N S K EY2 P	landscape	landscape.wav	word	small	NA	NA	NA	2	2.103803721	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+192	L IH1 P S T IH2 K	lipstick	lipstick.wav	word	small	NA	NA	NA	2	2.652246341	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+193	M AA1 D ER0 N	modern	modern.wav	word	small	NA	NA	NA	2	2.968482949	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+194	M AE1 G N AH0 T	magnet	magnet.wav	word	large	NA	NA	NA	11	2.146128036	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+195	M AE1 K S AH0 M	maxim	maxim.wav	word	large	NA	NA	NA	11	1.812913357	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+196	M AE1 NG G OW0	mango	mango.wav	word	large	NA	NA	NA	9	1.924279286	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+197	M AH1 S T AE2 SH	mustache	mustache.wav	word	small	NA	NA	NA	2	2.401400541	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+198	M EY1 N L AE2 N D	mainland	mainland.wav	word	small	NA	NA	NA	2	2.187520721	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+199	N AE1 P K IH0 N	napkin	napkin.wav	word	small	NA	NA	NA	2	2.264817823	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+200	N ER1 CH ER0	nurture	nurture.wav	word	large	NA	NA	NA	9	1.568201724	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+201	N OW1 SH AH0 N	notion	notion.wav	word	large	NA	NA	NA	10	2.526339277	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+202	P AA1 R S L IY0	parsley	parsley.wav	word	large	NA	NA	NA	10	1.633468456	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+203	P AE1 S T AY2 M	pastime	pastime.wav	word	small	NA	NA	NA	2	1.612783857	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+204	P AE1 T AH0 N T	patent	patent.wav	word	large	NA	NA	NA	10	2.100370545	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+205	P AO1 R T AH0 L	portal	portal.wav	word	large	NA	NA	NA	10	2.346352974	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+206	P EY1 S T R IY0	pastry	pastry.wav	word	small	NA	NA	NA	2	1.991226076	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+207	P IH1 JH AH0 N	pigeon	pigeon.wav	word	large	NA	NA	NA	11	2.478566496	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+208	P OW1 T AH0 N T	potent	potent.wav	word	small	NA	NA	NA	2	1.880813592	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+209	P R AA1 S P EH0 K T	prospect	prospect.wav	word	small	NA	NA	NA	2	2.250420002	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+210	P R UW1 D AH0 N T	prudent	prudent.wav	word	small	NA	NA	NA	2	1.913813852	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+211	P UH1 SH IY0	pushy	pushy.wav	word	large	NA	NA	NA	11	2.08278537	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+212	R AE1 N D AH0 M	random	random.wav	word	large	NA	NA	NA	10	2.717670503	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+213	R EY1 N B OW2	rainbow	rainbow.wav	word	small	NA	NA	NA	2	2.609594409	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+214	R IY1 K AO0 R S	recourse	recourse.wav	word	small	NA	NA	NA	2	1.579783597	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+215	R IY1 T EY2 L	retail	retail.wav	word	large	NA	NA	NA	10	2.071882007	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+216	S AA1 L AH0 D	solid	solid.wav	word	large	NA	NA	NA	10	2.999130541	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+217	S AA1 N IH0 K	sonic	sonic.wav	word	large	NA	NA	NA	11	1.995635195	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+218	S AH1 N B ER2 N	sunburn	sunburn.wav	word	small	NA	NA	NA	2	1.51851394	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+219	S AH1 N SH AY2 N	sunshine	sunshine.wav	word	small	NA	NA	NA	2	2.781036939	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+220	S AO1 F T L IY0	softly	softly.wav	word	small	NA	NA	NA	2	2.382017043	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+221	S AO1 F T W EH2 R	software	software.wav	word	small	NA	NA	NA	2	2.633468456	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+222	S AO1 S AH0 JH	sausage	sausage.wav	word	small	NA	NA	NA	2	2.598790507	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+223	S AY1 N AH0 S	sinus	sinus.wav	word	large	NA	NA	NA	11	1.949390007	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+224	S ER1 K AH0 T	circuit	circuit.wav	word	large	NA	NA	NA	11	2.531478917	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+225	S IH1 V IH0 K	civic	civic.wav	word	large	NA	NA	NA	9	2.041392685	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+226	S K W ER1 AH0 L	squirrel	squirrel.wav	word	small	NA	NA	NA	2	2.445604203	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+227	S OW1 L IH0 S	solace	solace.wav	word	large	NA	NA	NA	9	1.892094603	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+228	S T AH1 M AH0 K	stomach	stomach.wav	word	small	NA	NA	NA	2	3.236789099	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+229	S T R EH1 NG TH AH0 N	strengthen	strengthen.wav	word	small	NA	NA	NA	2	1.913813852	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+230	S T R IH1 K AH0 N	stricken	stricken.wav	word	small	NA	NA	NA	2	1.875061263	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+231	S W AA1 L OW0	swallow	swallow.wav	word	large	NA	NA	NA	10	2.812244697	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+232	SH AH1 T D AW2 N	shutdown	shutdown.wav	word	small	NA	NA	NA	2	1.875061263	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+233	SH UH1 G ER0	sugar	sugar.wav	word	large	NA	NA	NA	9	3.284656283	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+234	T IY1 N EY2 JH	teenage	teenage.wav	word	small	NA	NA	NA	2	2.544068044	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+235	T R AA1 L IY0	trolley	trolley.wav	word	large	NA	NA	NA	10	1.857332496	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+236	V AE1 N IH0 SH	vanish	vanish.wav	word	large	NA	NA	NA	9	2.212187604	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+237	V ER1 ZH AH0 N	version	version.wav	word	large	NA	NA	NA	9	2.918030337	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+238	V IH1 N T IH0 JH	vintage	vintage.wav	word	small	NA	NA	NA	2	2.173186268	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+239	V OW1 K AH0 L	vocal	vocal.wav	word	large	NA	NA	NA	11	2.178976947	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+240	W EH1 P AH0 N	weapon	weapon.wav	word	large	NA	NA	NA	11	3.376394442	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
